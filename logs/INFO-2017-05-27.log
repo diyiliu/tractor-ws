@@ -1,0 +1,664 @@
+[ INFO ] [2017-05-27 10:14:32] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:14:33] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:14:33] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:14:33] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:14:33] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:14:33] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:14:33] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:14:33] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7ba43f6d
+[ INFO ] [2017-05-27 10:14:34] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:15:16] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:15:16] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:15:16] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:15:16] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:15:16] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:15:16] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:15:16] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:15:16] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@58a2f41c
+[ INFO ] [2017-05-27 10:15:17] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:15:18] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:15:18] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:19:54] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:19:55] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:19:55] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:19:55] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:19:55] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:19:55] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:19:55] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:19:55] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@581b236
+[ INFO ] [2017-05-27 10:19:58] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:19:58] com.alibaba.druid.pool.DruidDataSource [1436] - {dataSource-1} closed
+[ INFO ] [2017-05-27 10:19:58] org.quartz.core.QuartzScheduler [694] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutting down.
+[ INFO ] [2017-05-27 10:19:58] org.quartz.core.QuartzScheduler [613] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED paused.
+[ INFO ] [2017-05-27 10:19:58] org.quartz.core.QuartzScheduler [771] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutdown complete.
+[ INFO ] [2017-05-27 10:21:22] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:21:22] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:21:22] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:21:22] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:21:22] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:21:22] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:21:22] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:21:22] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6121237b
+[ INFO ] [2017-05-27 10:21:23] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:21:25] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:21:25] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:27:47] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:27:47] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:27:47] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:27:47] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:27:47] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:27:47] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:27:47] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:27:47] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@57161a37
+[ INFO ] [2017-05-27 10:28:04] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:28:45] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:28:46] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:38:16] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:38:16] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:38:16] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:38:16] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:38:16] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:38:16] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:38:16] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:38:16] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@37c6de20
+[ INFO ] [2017-05-27 10:38:18] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:38:19] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:38:19] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:39:59] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:39:59] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:39:59] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:39:59] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:39:59] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:39:59] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:39:59] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:39:59] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@58a2f41c
+[ INFO ] [2017-05-27 10:40:00] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:40:01] com.alibaba.druid.pool.DruidDataSource [1436] - {dataSource-1} closed
+[ INFO ] [2017-05-27 10:40:01] org.quartz.core.QuartzScheduler [694] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutting down.
+[ INFO ] [2017-05-27 10:40:01] org.quartz.core.QuartzScheduler [613] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED paused.
+[ INFO ] [2017-05-27 10:40:01] org.quartz.core.QuartzScheduler [771] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutdown complete.
+[ INFO ] [2017-05-27 10:40:43] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:40:43] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:40:43] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:40:43] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:40:43] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:40:43] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:40:43] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:40:43] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6121237b
+[ INFO ] [2017-05-27 10:40:45] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:40:45] com.alibaba.druid.pool.DruidDataSource [1436] - {dataSource-1} closed
+[ INFO ] [2017-05-27 10:40:45] org.quartz.core.QuartzScheduler [694] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutting down.
+[ INFO ] [2017-05-27 10:40:45] org.quartz.core.QuartzScheduler [613] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED paused.
+[ INFO ] [2017-05-27 10:40:45] org.quartz.core.QuartzScheduler [771] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED shutdown complete.
+[ INFO ] [2017-05-27 10:41:36] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:41:36] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:41:36] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:41:36] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:41:36] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:41:36] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:41:36] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:41:36] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@324887ba
+[ INFO ] [2017-05-27 10:41:37] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:41:37] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:41:37] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:46:09] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:46:09] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:46:09] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:46:09] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:46:09] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:46:09] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:46:09] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:46:09] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@71d816e0
+[ INFO ] [2017-05-27 10:46:11] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:46:13] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:46:13] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 10:55:17] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 10:55:17] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 10:55:17] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 10:55:17] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 10:55:17] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 10:55:17] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 10:55:17] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 10:55:17] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6121237b
+[ INFO ] [2017-05-27 10:55:18] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 10:55:18] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 10:55:18] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 11:13:14] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 11:13:15] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 11:13:15] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 11:13:15] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 11:13:15] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 11:13:15] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 11:13:15] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 11:13:15] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3b724527
+[ INFO ] [2017-05-27 11:13:24] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 11:13:25] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 11:13:25] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:27:53] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:27:53] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:27:53] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:27:53] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:27:53] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:27:53] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:27:53] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:27:53] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7840e96c
+[ INFO ] [2017-05-27 14:27:55] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:27:57] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:27:57] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:27:58] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:27:58] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:31:01] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:31:01] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:31:01] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:31:01] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:31:01] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:31:01] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:31:01] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:31:01] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5a88cbff
+[ INFO ] [2017-05-27 14:31:02] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:31:03] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:31:03] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:32:09] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:32:09] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:32:09] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:32:09] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:32:09] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:32:09] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:32:09] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:32:09] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3c1270f4
+[ INFO ] [2017-05-27 14:32:10] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:32:11] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:32:11] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:33:14] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:33:14] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:33:14] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:33:14] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:33:14] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:33:14] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:33:14] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:33:14] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3fd54ead
+[ INFO ] [2017-05-27 14:33:16] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:33:18] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:33:18] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:34:21] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:34:21] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:34:21] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:34:21] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:34:21] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:34:21] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:34:21] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:34:21] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2d7b463f
+[ INFO ] [2017-05-27 14:34:22] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:34:22] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:34:22] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:34:57] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:34:57] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:34:57] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:34:57] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:34:57] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:34:57] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:34:57] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:34:57] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5eb5c1fb
+[ INFO ] [2017-05-27 14:34:58] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:34:59] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:34:59] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:36:08] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:36:08] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:36:08] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:36:08] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:36:08] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:36:08] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:36:08] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:36:08] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1d9cfc59
+[ INFO ] [2017-05-27 14:36:09] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:36:09] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:36:09] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:36:44] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:36:44] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:36:44] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:36:44] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:36:44] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:36:44] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:36:44] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:36:44] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6ed27650
+[ INFO ] [2017-05-27 14:36:45] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:36:46] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:36:46] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:39:03] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:39:03] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:39:03] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:39:03] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:39:03] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:39:03] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:39:03] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:39:03] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2d7b463f
+[ INFO ] [2017-05-27 14:39:04] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:39:04] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:39:04] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:39:04] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:39:04] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:45:59] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:45:59] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:45:59] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:45:59] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:45:59] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:45:59] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:45:59] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:45:59] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@657fa883
+[ INFO ] [2017-05-27 14:46:01] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:46:02] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:46:02] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:46:14] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:46:18] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:47:25] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:47:25] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:47:25] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:47:25] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:47:25] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:47:25] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:47:25] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:47:25] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@657fa883
+[ INFO ] [2017-05-27 14:47:26] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:47:27] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:47:27] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:47:31] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:48:01] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 14:49:01] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 14:49:01] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 14:49:01] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 14:49:01] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 14:49:01] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 14:49:01] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 14:49:01] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 14:49:01] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@54843caf
+[ INFO ] [2017-05-27 14:49:02] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 14:49:03] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 14:49:03] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 14:49:05] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 14:49:07] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 15:02:49] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 15:02:49] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 15:02:49] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 15:02:49] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 15:02:49] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 15:02:49] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 15:02:49] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 15:02:49] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7840e96c
+[ INFO ] [2017-05-27 15:02:51] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 15:02:52] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 15:02:52] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 15:02:53] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 15:02:53] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.OracleDriver, url=jdbc:oracle:thin:@10.80.0.81:1521/xgdb, username=tstar, password=tstar, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 15:15:52] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 15:15:52] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 15:15:52] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 15:15:52] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 15:15:52] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 15:15:52] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 15:15:52] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 15:15:52] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6d9cef21
+[ INFO ] [2017-05-27 15:15:54] com.alibaba.druid.pool.DruidDataSource [721] - {dataSource-1} inited
+[ INFO ] [2017-05-27 15:15:55] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 15:15:55] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 15:15:55] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 15:15:55] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@192.168.1.156:1521/xgsid.xg156.com, username=TSTAR, password=TSTAR, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 15:15:56] cn.com.tiza.tstar.common.datasource.TStarDBManager [72] - DB pool created successfully.
+[ INFO ] [2017-05-27 15:15:56] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [73] - Init Database connection pool has completed.
+[ INFO ] [2017-05-27 16:10:00] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:10:00] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:10:00] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:10:00] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:10:00] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:10:00] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:10:00] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:10:00] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6556d991
+[ INFO ] [2017-05-27 16:10:03] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:10:03] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:11:47] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:11:47] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:11:47] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:11:47] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:11:47] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:11:47] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:11:47] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:11:47] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@26f535e1
+[ INFO ] [2017-05-27 16:11:50] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:11:50] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:15:46] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:15:46] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:15:46] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:15:46] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:15:46] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:15:46] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:15:46] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:15:46] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@24db4002
+[ INFO ] [2017-05-27 16:15:48] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:15:48] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:16:03] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 01 00 00 04 52 95 E9 E3 00 02 01 00 00 00 13 07 38 2E 38 2E 38 2E 38 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 73 7E]
+[ INFO ] [2017-05-27 16:26:53] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:26:53] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:26:53] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:26:53] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:26:53] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:26:53] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:26:53] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:26:53] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@4d43953
+[ INFO ] [2017-05-27 16:26:56] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:26:56] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:27:32] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 44 7E]
+[ INFO ] [2017-05-27 16:28:49] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:28:49] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:28:49] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:28:49] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:28:49] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:28:49] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:28:49] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:28:49] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@33b4450e
+[ INFO ] [2017-05-27 16:28:51] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:28:51] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:31:09] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 02 01 00 00 00 13 07 38 2E 38 2E 38 2E 38 7F 7E]
+[ INFO ] [2017-05-27 16:33:30] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 16:33:30] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 16:33:30] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 16:33:30] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 16:33:30] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 16:33:30] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 16:33:30] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 16:33:30] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6556d991
+[ INFO ] [2017-05-27 16:33:31] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 16:33:31] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 16:33:35] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 02 01 00 00 00 13 07 38 2E 38 2E 38 2E 38 7F 7E]
+[ INFO ] [2017-05-27 16:36:40] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 04 01 00 00 00 13 07 38 2E 38 2E 38 2E 38 79 7E]
+[ INFO ] [2017-05-27 16:37:00] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 06 01 00 00 00 13 07 33 2E 33 2E 33 2E 33 7B 7E]
+[ INFO ] [2017-05-27 16:41:21] com.tiza.util.task.impl.MSGSenderTask [50] - 下发消息，终端[18565425635], 命令[8103], 原始数据[7E 81 03 00 0D 00 04 52 95 E9 E3 00 08 01 00 00 00 13 07 36 2E 36 2E 36 2E 36 75 7E]
+[ INFO ] [2017-05-27 17:26:21] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 17:26:21] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 17:26:21] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 17:26:21] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 17:26:21] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 17:26:21] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 17:26:21] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 17:26:21] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5aa5c1f
+[ INFO ] [2017-05-27 17:26:24] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 17:26:24] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 17:28:42] org.quartz.impl.StdSchedulerFactory [1172] - Using default implementation for ThreadExecutor
+[ INFO ] [2017-05-27 17:28:42] org.quartz.core.SchedulerSignalerImpl [61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[ INFO ] [2017-05-27 17:28:42] org.quartz.core.QuartzScheduler [240] - Quartz Scheduler v.2.2.2 created.
+[ INFO ] [2017-05-27 17:28:42] org.quartz.simpl.RAMJobStore [155] - RAMJobStore initialized.
+[ INFO ] [2017-05-27 17:28:42] org.quartz.core.QuartzScheduler [305] - Scheduler meta-data: Quartz Scheduler (v2.2.2) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[ INFO ] [2017-05-27 17:28:42] org.quartz.impl.StdSchedulerFactory [1327] - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+[ INFO ] [2017-05-27 17:28:42] org.quartz.impl.StdSchedulerFactory [1331] - Quartz scheduler version: 2.2.2
+[ INFO ] [2017-05-27 17:28:42] org.quartz.core.QuartzScheduler [2311] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@60e88620
+[ INFO ] [2017-05-27 17:28:44] org.quartz.core.QuartzScheduler [575] - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+[ INFO ] [2017-05-27 17:28:44] com.tiza.util.listener.CMDInitializer [28] - 协议解析初始化...
+[ INFO ] [2017-05-27 17:28:44] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [66] - load common.xml,datainterface-client.xml is successful.
+[ INFO ] [2017-05-27 17:28:44] cn.com.tiza.tstar.common.datasource.TStarDBManager [64] - Initialize db pool, config: driver=oracle.jdbc.driver.OracleDriver, url=jdbc:oracle:thin:@192.168.1.156:1521/xgsid.xg156.com, username=TSTAR, password=TSTAR, poolMaxConnections=2, poolInitialConnections=1, poolIncremental=1.
+[ INFO ] [2017-05-27 17:28:45] cn.com.tiza.tstar.common.datasource.TStarDBManager [72] - DB pool created successfully.
+[ INFO ] [2017-05-27 17:28:45] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [73] - Init Database connection pool has completed.
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:host.name=USER-RORJV50UQ3
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.version=1.7.0_80
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.vendor=Oracle Corporation
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.home=E:\Develop\Java\jdk1.7.0_80\jre
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.class.path=E:\Develop\Java\jdk1.7.0_80\jre\lib\charsets.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\deploy.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\access-bridge-64.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\dnsns.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\jaccess.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\localedata.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\sunec.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\sunjce_provider.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\sunmscapi.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\ext\zipfs.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\javaws.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\jce.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\jfr.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\jfxrt.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\jsse.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\management-agent.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\plugin.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\resources.jar;E:\Develop\Java\jdk1.7.0_80\jre\lib\rt.jar;E:\VCS\SVN\Tractor\tractor-ws\out\production\tractor-ws_main;E:\VCS\SVN\Tractor\tractor-ws\lib\tstar-common-1.0.1-SNAPSHOT.jar;E:\VCS\SVN\Tractor\tractor-ws\lib\tstar-datainterface-service-1.0.1-SNAPSHOT.jar;E:\VCS\SVN\Tractor\tractor-ws\lib\tstar-datainterface-client-1.0.1-SNAPSHOT.jar;E:\VCS\SVN\Tractor\tractor-ws\lib\ojdbc6-11.2.0.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-core\4.2.5.RELEASE\251207b29f0f38f61e3495a2f7fb053cf1bfe8c\spring-core-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.2.5.RELEASE\a75e18322c7b362fe1daa26a245ae672ec0f3138\spring-context-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context-support\4.2.5.RELEASE\72db9c52e8bd2dc3290cd51114583731f818356b\spring-context-support-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-jdbc\4.2.5.RELEASE\205d2f1b902eac16a2ece772dc5ac6090b7e0b6f\spring-jdbc-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.0.34.Final\e1e53fb0283cc6fbc0f3631e60f658ddebcf005\netty-all-4.0.34.Final.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.quartz-scheduler\quartz\2.2.2\6fd24da6803ab7c3a08bc519a62219a9bebeb0df\quartz-2.2.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.alibaba\druid\1.0.18\9e4da3cbebad34c9eb3900ef9dc30cb4a60cffe0\druid-1.0.18.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\mysql\mysql-connector-java\5.1.38\dbbd7cd309ce167ec8367de4e41c63c2c8593cc5\mysql-connector-java-5.1.38.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.3\f12e6cd05cbaecd74d16e685d45b627732939e42\jackson-databind-2.7.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.3.1\1303efbc4b181e5a58bf2e967dc156a3132b97c0\commons-cli-1.3.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-configuration\commons-configuration\1.10\2b36e4adfb66d966c5aef2d73deb6be716389dc9\commons-configuration-1.10.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\dom4j\dom4j\1.6.1\5d3ccc056b6f056dbf0dddfdf43894b9065a8f94\dom4j-1.6.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\jaxen\jaxen\1.1.6\3f8c36d9a0578e8e98f030c662b69888b1430ac0\jaxen-1.1.6.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.2\733db77aa8d9b2d68015189df76ab06304406e50\httpclient-4.5.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\ch.qos.logback\logback-classic\1.1.6\665e3de72f19ec66ac67d82612d7b8e6b3de3cd0\logback-classic-1.1.6.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-common\2.5.2\d4a60ca549b1f9064578a4ac0a2340624e2440bd\hadoop-common-2.5.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-hdfs\2.5.2\7c555a887341e8abd95cec5815bb8d920db74969\hadoop-hdfs-2.5.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hbase\hbase-common\0.98.12-hadoop2\1655ef8b76658508d5d6e94314e8eb0de60f16d8\hbase-common-0.98.12-hadoop2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hbase\hbase-client\0.98.12-hadoop2\69d410c37bf596f8aa3f1a1b089b217d534bc080\hbase-client-0.98.12-hadoop2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.kafka\kafka-clients\0.8.2.2\a4903cb5fe087be183a50f6c2b08483cff1e8444\kafka-clients-0.8.2.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-aop\4.2.5.RELEASE\858d6c70909b3ce7e07b59fc936f8ccfcd81c0aa\spring-aop-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.2.5.RELEASE\fa992ae40f6fc47117282164e0433b71da385e94\spring-beans-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-expression\4.2.5.RELEASE\a42bdfb833d0be6c18429aea3fb0fba81f85c6e8\spring-expression-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.springframework\spring-tx\4.2.5.RELEASE\7395321fe937272d9b781a13985e04ab2dcd6210\spring-tx-4.2.5.RELEASE.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\c3p0\c3p0\0.9.1.1\302704f30c6e7abb7a0457f7771739e03c973e80\c3p0-0.9.1.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.3\1499b854ae9f370409792db5af1b552dc7d9682f\jackson-core-2.7.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\xml-apis\xml-apis\1.0.b2\3136ca936f64c9d68529f048c2618bd356bf85c9\xml-apis-1.0.b2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.4\b31526a230871fbe285fbcbe2813f9c0839ae9b0\httpcore-4.4.4.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\ch.qos.logback\logback-core\1.1.6\4d1d54165c4d9fcb7b63a7fe4f18e45b47e7645b\logback-core-1.1.6.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-annotations\2.5.2\7bf4cdb8c35cf4dd761726c02b7677a169162f0a\hadoop-annotations-2.5.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-math3\3.1.1\6719d757a98ff24a83d9d727bef9cec83f59b6e1\commons-math3-3.1.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\xmlenc\xmlenc\0.52\d82554efbe65906d83b3d97bd7509289e9db561a\xmlenc-0.52.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-httpclient\commons-httpclient\3.1\964cd74171f427720480efdec40a7c7f6e58426a\commons-httpclient-3.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-net\commons-net\3.1\2298164a7c2484406f2aa5ac85b205d39019896f\commons-net-3.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.servlet\servlet-api\2.5\5959582d97d8b61f4d154ca9e495aafd16726e34\servlet-api-2.5.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.mortbay.jetty\jetty\6.1.26\2f546e289fddd5b1fab1d4199fbb6e9ef43ee4b0\jetty-6.1.26.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.mortbay.jetty\jetty-util\6.1.26\e5642fe0399814e1687d55a3862aa5a3417226a9\jetty-util-6.1.26.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey\jersey-core\1.9\8341846f18187013bb9e27e46b7ee00a6395daf4\jersey-core-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey\jersey-json\1.9\1aa73e1896bcc7013fed247157d7f676226eb432\jersey-json-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey\jersey-server\1.9\3a6ea7cc5e15c824953f9f3ece2201b634d90d18\jersey-server-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\tomcat\jasper-compiler\5.5.23\6d35bd7fb8c4fbc1f5401fb3678aa976d2e4c241\jasper-compiler-5.5.23.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\tomcat\jasper-runtime\5.5.23\96ca5528a93ab47b001476b74320c644beb89dde\jasper-runtime-5.5.23.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.servlet.jsp\jsp-api\2.1\63f943103f250ef1f3a4d5e94d145a0f961f5316\jsp-api-2.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-el\commons-el\1.0\1df2c042b3f2de0124750241ac6c886dbfa2cc2c\commons-el-1.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.17\5af35056b4d257e4b64b9e8069c0746e8b08629f\log4j-1.2.17.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\net.java.dev.jets3t\jets3t\0.9.0\792bc96ee7e57b89f472aa0cb5a31015b9f59c96\jets3t-0.9.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.7.5\6edffc576ce104ec769d954618764f39f0f0f10d\slf4j-log4j12-1.7.5.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.13\3c304d70f42f832e0a86d45bd437f692129299a4\jackson-core-asl-1.9.13.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.13\1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7\jackson-mapper-asl-1.9.13.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.avro\avro\1.7.4\416e7030879814f52845b97f04bb50ecd1cef372\avro-1.7.4.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\2.5.0\a10732c76bfacdbd633a7eb0f7968b1059a65dfa\protobuf-java-2.5.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-auth\2.5.2\e637ea131afd368853034649c48b36d032aead52\hadoop-auth-2.5.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.jcraft\jsch\0.1.42\a86104b0f2e0c0bab5b0df836065823a99b5e334\jsch-0.1.42.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.zookeeper\zookeeper\3.4.6\1b2502e29da1ebaade2357cd1de35a855fa3755\zookeeper-3.4.6.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.4.1\b02e84a993d88568417536240e970c4b809126fd\commons-compress-1.4.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\commons-daemon\commons-daemon\1.0.13\750856a1fdb3ddf721ccf73c3518e4211cffc3a3\commons-daemon-1.0.13.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hbase\hbase-annotations\0.98.12-hadoop2\354feec6ec2a3c00dc98d04a69f903340505be1c\hbase-annotations-0.98.12-hadoop2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.github.stephenc.findbugs\findbugs-annotations\1.3.9-1\a6b11447635d80757d64b355bed3c00786d86801\findbugs-annotations-1.3.9-1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\junit\junit\4.11\4e031bb61df09069aeb2bffb4019e7a5034a4ee0\junit-4.11.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-mapreduce-client-core\2.2.0\4be274d45f35543d3c4dd8e2bfed2cebc56696c7\hadoop-mapreduce-client-core-2.2.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hbase\hbase-protocol\0.98.12-hadoop2\cb4948db4669e33869f635c68ea485f1cdc63a38\hbase-protocol-0.98.12-hadoop2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.cloudera.htrace\htrace-core\2.04\80f30d70dfa29c78b1db994b6d9124ae271e0249\htrace-core-2.04.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.jruby.jcodings\jcodings\1.0.8\33fa45fd853c277b888e3d5a2e6a4604b7c11e2c\jcodings-1.0.8.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.jruby.joni\joni\2.1.2\1f08024ec70e86a716188b7d069b0c2d2f183e14\joni-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.xerial.snappy\snappy-java\1.1.1.7\33b6965e9364145972035c30a45a996aad2bf789\snappy-java-1.1.1.7.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\net.jpountz.lz4\lz4\1.2.0\cd301e9a481eae5b68c53267100aeca43b782b9f\lz4-1.2.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\aopalliance\aopalliance\1.0\235ba8b489512805ac13a8f9ea77a1ca5ebe3e8\aopalliance-1.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\asm\asm\3.1\c157def142714c544bdea2e6144645702adf7097\asm-3.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-yarn-common\2.2.0\77f18c3d40dcb45b0be2602cfa5115a5edb40db1\hadoop-yarn-common-2.2.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.google.inject.extensions\guice-servlet\3.0\610cde0e8da5a8b7d8efb8f0b8987466ffebaaf9\guice-servlet-3.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-yarn-api\2.2.0\655910becbe9c5c60033e9e64e95aab0ec4ce94a\hadoop-yarn-api-2.2.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.google.inject\guice\3.0\9d84f15fe35e2c716a02979fb62f50a29f38aefa\guice-3.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey.jersey-test-framework\jersey-test-framework-grizzly2\1.9\8bf4d5cef8cbf70a160cc2ff78b332db454030bd\jersey-test-framework-grizzly2-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey.contribs\jersey-guice\1.9\5963c28c47df7e5d6ad34cec80c071c368777f7b\jersey-guice-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.thoughtworks.paranamer\paranamer\2.3\4a85963a752c0a2f715c3924bfc686865e7e1bc6\paranamer-2.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.sonatype.sisu.inject\cglib\2.2.1-v20090111\7ce5e983fd0e6c78346f4c9cbfa39d83049dda2\cglib-2.2.1-v20090111.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey.jersey-test-framework\jersey-test-framework-core\1.9\129431673b2735840b9216a651de38b4f1cb3c66\jersey-test-framework-core-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey\jersey-grizzly2\1.9\1e23ccc25f4dced8857b4296cceed42a7a49200c\jersey-grizzly2-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.codehaus.jettison\jettison\1.1\1a01a2a1218fcf9faa2cc2a6ced025bdea687262\jettison-1.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.xml.bind\jaxb-impl\2.2.3-1\56baae106392040a45a06d4a41099173425da1e6\jaxb-impl-2.2.3-1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-jaxrs\1.8.3\3604ca9f572170e2ef5813141ec1f0e0100efd19\jackson-jaxrs-1.8.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-xc\1.8.3\1226667dcdb7c259b3ee07e112ed83446554516e\jackson-xc-1.8.3.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.tukaani\xz\1.0\ecff5cb8b1189514c9d1d8d68eb77ac372e000c9\xz-1.0.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.0.1\6bf0ebb7efd993e222fc1112377b5e92a13b38dd\javax.servlet-api-3.0.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.sun.jersey\jersey-client\1.9\d3c4b2b5f89db32c96ceddcb863684821910a7bb\jersey-client-1.9.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.grizzly\grizzly-http\2.1.2\aa477bd5b57367c344bf50f1f4af71a24a94ec9f\grizzly-http-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.grizzly\grizzly-http-server\2.1.2\8a1c41c688cb3a34998a3515048a2284e5201192\grizzly-http-server-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.grizzly\grizzly-http-servlet\2.1.2\225700354dd0b7bc6132689c4fa046fa69744e20\grizzly-http-servlet-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.servlet\3.1\ab7db738667bea1b937efcf3a1845c0d28e6beaf\javax.servlet-3.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\stax\stax-api\1.0.1\49c100caf72d658aca8e58bd74a4ba90fa2b0d70\stax-api-1.0.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.xml.bind\jaxb-api\2.2.2\aeb3021ca93dde265796d82015beecdcff95bf09\jaxb-api-2.2.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.grizzly\grizzly-framework\2.1.2\684c82b28f7e7a53c20d30e69d9787abfeb85d32\grizzly-framework-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.grizzly\grizzly-rcm\2.1.2\19c3a4301ae7e38eb0518cfd4f3f34223c1b7f39\grizzly-rcm-2.1.2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.activation\activation\1.1\e6cb541461c2834bdea3eb920f1884d1eb508b50\activation-1.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.gmbal\gmbal-api-only\3.0.0-b023\14f077191ad7ec73004ca58de2c90a2137f1d882\gmbal-api-only-3.0.0-b023.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.glassfish.external\management-api\3.0.0-b012\707686d845faede060b79bdf018a25a469a611b4\management-api-3.0.0-b012.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.18\b631d286463ced7cc42ee2171fe3beaed2836823\slf4j-api-1.7.18.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\12.0.1\b8e78b9af7bf45900e14c6f958486b6ca682195f\guava-12.0.1.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\javax.xml.stream\stax-api\1.0-2\d6337b0de8b25e53e81b922352fbea9f9f57ba0b\stax-api-1.0-2.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\com.jamesmurty.utils\java-xmlbuilder\0.4\ac5962e48cdee3a0a6e1f8e00fcb594747ac5aaf\java-xmlbuilder-0.4.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\io.netty\netty\3.7.0.Final\7a8c35599c68c0bf383df74469aa3e03d9aca87\netty-3.7.0.Final.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.directory.server\apacheds-kerberos-codec\2.0.0-M15\1c16e4e477183641c5f0dd5cdecd27ec331bacb5\apacheds-kerberos-codec-2.0.0-M15.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.directory.server\apacheds-i18n\2.0.0-M15\71c61c84683152ec2a6a65f3f96fe534e304fa22\apacheds-i18n-2.0.0-M15.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.directory.api\api-asn1-api\1.0.0-M20\5e6486ffa3125ba44dc410ead166e1d6ba8ac76d\api-asn1-api-1.0.0-M20.jar;E:\Develop\Local\repo\.gradle\caches\modules-2\files-2.1\org.apache.directory.api\api-util\1.0.0-M20\a871abf060b3cf83fc6dc4d7e3d151fce50ac3cb\api-util-1.0.0-M20.jar;E:\Develop\Tools\JetBrains\IntelliJ IDEA 2017.1.1\lib\idea_rt.jar
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.library.path=E:\Develop\Java\jdk1.7.0_80\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:\Oracle\product\11.1.0\client_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;E:\Develop\Java\jdk1.8.0_131\bin;E:\Develop\Java\jdk1.8.0_131\jre\bin;E:\Develop\Gradle\gradle-3.5/bin;D:\Program Files\Git\cmd;D:\Program Files (x86)\PuTTY\;D:\Program Files (x86)\Vim\vim74\;E:\Develop\Python\Python36\Scripts\;E:\Develop\Python\Python36\;.
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.io.tmpdir=C:\Users\DIYILIU\AppData\Local\Temp\
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:java.compiler=<NA>
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:os.name=Windows 8.1
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:os.arch=amd64
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:os.version=6.3
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:user.name=DIYILIU
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:user.home=C:\Users\DIYILIU
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [100] - Client environment:user.dir=E:\VCS\SVN\Tractor\tractor-ws
+[ INFO ] [2017-05-27 17:28:47] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:28:49] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:28:50] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:28:52] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:28:56] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:29:04] org.apache.zookeeper.ZooKeeper [438] - Initiating client connection, connectString=xg154:2181,xg153:2181,xg155:2181 sessionTimeout=10000 watcher=hconnection-0x5b67dd360x0, quorum=xg154:2181,xg153:2181,xg155:2181, baseZNode=/hbase
+[ INFO ] [2017-05-27 17:29:06] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [82] - HBaseOperator init completed.
+[ INFO ] [2017-05-27 17:29:06] cn.com.tiza.tstar.common.alarm.TStarAlarmer [37] - Alarmer root dir is /tstar/alarm
+[ INFO ] [2017-05-27 17:29:06] cn.com.tiza.tstar.datainterface.client.TStarStandardClient [98] - Interface service init success, impl=cn.com.tiza.tstar.datainterface.service.impl.InterfaceServiceImpl.
+[ INFO ] [2017-05-27 17:29:07] cn.com.tiza.tstar.common.alarm.WatchDog [120] - WatchDog is running
+[ INFO ] [2017-05-27 17:30:07] cn.com.tiza.tstar.common.alarm.WatchDog [120] - WatchDog is running
+[ INFO ] [2017-05-27 17:31:07] cn.com.tiza.tstar.common.alarm.WatchDog [120] - WatchDog is running
+[ INFO ] [2017-05-27 17:32:07] cn.com.tiza.tstar.common.alarm.WatchDog [120] - WatchDog is running
+[ INFO ] [2017-05-27 17:33:07] cn.com.tiza.tstar.common.alarm.WatchDog [120] - WatchDog is running

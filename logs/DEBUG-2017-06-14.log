@@ -1,0 +1,1103 @@
+[ DEBUG] [2017-06-14 15:09:55] org.apache.hadoop.security.authentication.util.KerberosName[88] - Kerberos krb5 configuration not found, setting default realm to empty
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:24] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:24] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:25] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:25] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:26] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:26] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:27] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:27] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:28] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:28] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:29] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:29] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:30] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:30] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:31] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:31] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:31] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:31] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:32] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:32] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:33] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:33] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:34] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:34] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:35] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:35] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:36] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:36] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:37] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:37] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:38] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:38] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:39] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:39] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:40] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:40] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:41] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:41] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:42] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:42] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:42] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:42] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:43] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:43] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:44] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:44] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:45] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:45] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:48] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:48] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:49] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:49] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:49] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:49] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:50] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:50] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:50] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:50] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:51] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:51] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:52] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:52] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:53] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:53] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:54] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:54] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:55] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:55] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:56] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:56] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:57] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:57] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:58] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:10:58] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:10:59] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:10:59] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:10:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:00] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:00] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:01] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:01] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:02] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:02] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:03] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:03] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:04] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:04] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:05] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:05] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:06] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:06] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:06] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:06] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:07] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:07] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:07] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:07] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:08] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:08] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:08] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:08] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:09] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:09] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:09] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:09] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:09] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:09] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:09] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:10] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:10] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:10] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:10] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:11] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:11] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:11] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:11] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:11] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:11] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:11] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:12] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:12] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:12] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:12] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:12] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:12] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:12] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:13] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:13] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:13] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:13] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:14] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:14] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:15] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:15] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:16] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:16] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:17] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:17] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.logging.InternalLoggerFactory[71] - Using SLF4J as the default logging framework
+[ DEBUG] [2017-06-14 15:11:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent0[76] - java.nio.Buffer.address: available
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent0[76] - sun.misc.Unsafe.theUnsafe: available
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent0[71] - sun.misc.Unsafe.copyMemory: available
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent0[76] - java.nio.Bits.unaligned: true
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[71] - Platform: Windows
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - Java version: 7
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - -Dio.netty.noUnsafe: false
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - sun.misc.Unsafe: available
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - -Dio.netty.noJavassist: false
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[71] - Javassist: unavailable
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[71] - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - -Dio.netty.tmpdir: C:\Users\DIYILIU\AppData\Local\Temp (java.io.tmpdir)
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.internal.PlatformDependent[76] - -Dio.netty.noPreferDirect: false
+[ DEBUG] [2017-06-14 15:11:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:22] io.netty.buffer.AbstractByteBuf[81] - -Dio.netty.buffer.bytebuf.checkAccessible: true
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.ResourceLeakDetector[81] - -Dio.netty.leakDetection.level: simple
+[ DEBUG] [2017-06-14 15:11:22] io.netty.util.ResourceLeakDetector[81] - -Dio.netty.leakDetection.maxRecords: 4
+[ DEBUG] [2017-06-14 15:11:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:11:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:48] com.tiza.util.thread.SqlProcess[87] - 批处理： 类型[UPDATE]，数量[1]，耗时[429毫秒], SQL["update TRACTOR.LOG_GPSINSTRUCTION set RESULTSTATUS=6 where ID=187"]
+[ DEBUG] [2017-06-14 15:11:48] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:48] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:48] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:48] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:48] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:49] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:49] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:49] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:49] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:49] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:50] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:50] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:50] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:50] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:50] com.tiza.protocol.jt808.cmd.CMD_0104[76] - 查询结果:218.3.247.227
+[ DEBUG] [2017-06-14 15:11:50] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:51] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:51] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:51] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:51] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:51] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:52] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:52] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:52] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:52] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:52] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:53] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:53] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:54] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:54] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:55] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:55] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:56] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:56] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:57] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:57] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:58] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:11:58] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:59] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:11:59] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:11:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:00] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:00] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:01] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:01] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:02] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:02] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:03] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:03] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:04] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:04] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:05] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:05] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:05] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:06] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:06] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:06] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:07] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:07] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:07] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:08] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:08] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:08] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:09] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:09] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:09] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:09] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:09] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:09] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:10] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:10] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:10] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:11] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:11] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:11] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:11] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:11] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:11] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:12] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:12] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:12] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:12] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:12] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:12] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:13] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:13] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:13] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:14] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:14] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:14] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:15] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:15] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:15] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:16] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:16] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:16] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:17] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:17] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:17] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:17] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:18] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:18] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:18] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:19] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:19] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:19] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:20] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:20] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:20] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:21] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:21] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:21] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:22] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:22] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:23] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:23] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:23] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:24] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:24] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:24] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:24] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:24] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:25] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:25] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:25] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:25] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:25] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:26] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:26] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:26] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:27] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:27] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:27] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:28] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:28] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:28] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:29] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:29] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:29] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:30] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:30] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:30] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:31] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:31] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:31] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:31] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:31] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:32] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:32] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:32] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:33] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:33] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:33] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:34] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:34] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:34] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:35] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:35] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:35] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:35] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:35] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:36] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:36] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:36] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:37] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:37] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:37] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:37] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:37] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:38] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:38] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:38] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:38] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:38] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:39] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:39] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:39] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:39] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:39] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:40] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:40] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:40] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:40] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:40] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:41] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:41] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:41] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:41] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:41] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:42] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:42] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:42] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:42] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:42] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:43] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:43] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:43] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:43] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:43] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:44] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:44] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:44] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:44] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:44] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:45] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:45] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:45] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:45] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:45] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:46] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:46] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-1]执行中...
+[ DEBUG] [2017-06-14 15:12:46] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:12:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:47] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:12:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:12:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[insert-2]执行中...
+[ DEBUG] [2017-06-14 15:12:47] com.tiza.util.thread.SqlProcess[48] - 数据库操作线程[update-1]执行中...
+[ DEBUG] [2017-06-14 15:12:47] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:31] org.apache.hadoop.security.authentication.util.KerberosName[88] - Kerberos krb5 configuration not found, setting default realm to empty
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 0 triggers
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:53] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:54] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:55] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:56] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:57] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:58] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:13:59] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:14:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:00] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:14:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:00] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:14:01] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:14:02] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:14:03] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.msgSenderJobDetail
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.JobRunShell[201] - Calling execute on job DEFAULT.waitRespJobDetail
+[ DEBUG] [2017-06-14 15:14:04] org.quartz.core.QuartzSchedulerThread[276] - batch acquisition of 1 triggers

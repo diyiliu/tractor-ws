@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!-- 数据下发 -->
+    <bean id="msgSenderTask" class="com.tiza.util.task.impl.MSGSenderTask"/>
+    <bean id="msgSenderJobDetail" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+        <property name="targetObject">
+            <ref bean="msgSenderTask"/>
+        </property>
+        <property name="targetMethod">
+            <value>execute</value>
+        </property>
+        <property name="concurrent" value="false"/>
+    </bean>
+    <bean id="msgSenderTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerFactoryBean">
+        <property name="jobDetail" ref="msgSenderJobDetail"/>
+        <property name="startDelay" value="1000"/>
+        <property name="repeatInterval" value="1000"/>
+    </bean>
+
+    <!-- 命令应答 -->
+    <bean id="waitRespTask" class="com.tiza.util.task.impl.WaitRespTask"/>
+    <bean id="waitRespJobDetail" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+        <property name="targetObject">
+            <ref bean="waitRespTask"/>
+        </property>
+        <property name="targetMethod">
+            <value>execute</value>
+        </property>
+        <property name="concurrent" value="false"/>
+    </bean>
+    <bean id="waitRespTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerFactoryBean">
+        <property name="jobDetail" ref="waitRespJobDetail"/>
+        <property name="startDelay" value="1000"/>
+        <property name="repeatInterval" value="1000"/>
+    </bean>
+
+    <bean class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+        <property name="triggers">
+            <list>
+                <ref bean="msgSenderTrigger"/>
+                <ref bean="waitRespTrigger"/>
+            </list>
+        </property>
+    </bean>
+</beans>

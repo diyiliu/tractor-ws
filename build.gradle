@@ -1,0 +1,111 @@
+group 'com.tiza'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.7
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+ext {
+    springVersion = '4.2.5.RELEASE'
+    nettyVersion = '4.0.34.Final'
+    quartzVersion = '2.2.2'
+    druidVersion = '1.0.18'
+    mysqlVersion = '5.1.38'
+    jacksonVersion = '2.7.3'
+    commonslang3Version = '3.5'
+    commonsCliVersion = '1.3.1'
+    commonsCollectionsVersion = '3.2.2'
+    commonsConfigurationVersion= '1.10'
+    dom4jVersion = '1.6.1'
+    jaxenVersion = '1.1.6'
+    httpclientVersion = '4.5.2'
+    logbackVersion = '1.1.6'
+    junitVersion = '4.12'
+
+    hadoopVersion = '2.5.2'
+    hbaseVersion = '0.98.12-hadoop2'
+    kafkaVersion = '0.8.2.2'
+}
+
+dependencies {
+    compile fileTree(dir: 'lib', include: '*.jar')
+
+    compile(
+            //spring
+            "org.springframework:spring-core:$springVersion",
+            "org.springframework:spring-context:$springVersion",
+            "org.springframework:spring-context-support:$springVersion",
+            "org.springframework:spring-jdbc:$springVersion",
+            //netty
+            "io.netty:netty-all:$nettyVersion",
+            //quartz
+            "org.quartz-scheduler:quartz:$quartzVersion",
+            //druid
+            "com.alibaba:druid:$druidVersion",
+            //mysql-connect
+            "mysql:mysql-connector-java:$mysqlVersion",
+            //jackson
+            "com.fasterxml.jackson.core:jackson-databind:$jacksonVersion",
+            "org.apache.commons:commons-lang3:$commonslang3Version",
+            //commons-cli
+            "commons-cli:commons-cli:$commonsCliVersion",
+            //commons-collections
+            "commons-collections:commons-collections:$commonsCollectionsVersion",
+            //commons-configuration
+            "commons-configuration:commons-configuration:$commonsConfigurationVersion",
+            //dom4j
+            "dom4j:dom4j:$dom4jVersion",
+            //jaxen
+            "jaxen:jaxen:$jaxenVersion",
+            //httplient
+            "org.apache.httpcomponents:httpclient:$httpclientVersion",
+            //logback
+            "ch.qos.logback:logback-classic:$logbackVersion",
+
+            //hadoop
+            "org.apache.hadoop:hadoop-common:$hadoopVersion",
+            "org.apache.hadoop:hadoop-hdfs:$hadoopVersion",
+            //hbase
+            "org.apache.hbase:hbase-common:$hbaseVersion",
+            "org.apache.hbase:hbase-client:$hbaseVersion",
+            //kafka
+            "org.apache.kafka:kafka-clients:$kafkaVersion"
+    )
+
+    testCompile(
+            "junit:junit:$junitVersion",
+            "org.springframework:spring-test:$springVersion"
+    )
+
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'com.tiza.Main',
+                'Class-Path': 'config/ lib/' + configurations.compile.collect { it.name }.join(' lib/')
+        )
+    }
+
+    /* '胖'打包（包含所有jar）
+    from {
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }*/
+}
+
+// 拷贝文件
+task copyJars(type: Copy) {
+    from configurations.runtime
+    into 'dist'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
