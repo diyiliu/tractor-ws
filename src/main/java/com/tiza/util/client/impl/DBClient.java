@@ -1,6 +1,5 @@
 package com.tiza.util.client.impl;
 
-import com.tiza.util.bean.SqlBody;
 import com.tiza.util.cache.ICache;
 import com.tiza.util.client.IClient;
 import com.tiza.util.config.Constant;
