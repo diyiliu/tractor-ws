@@ -63,8 +63,7 @@ public class CMD_0001 extends Jt808DataProcess{
             }
 
             Map paramMap = new HashMap();
-            paramMap.put("RESULTSTATUS", 1);
-            paramMap.put("RESPONSEDATA", value);
+            paramMap.put("RESULTSTATUS", value);
             paramMap.put("RESPONSETIME", new Date());
 
             Map conditionMap = new HashMap();
