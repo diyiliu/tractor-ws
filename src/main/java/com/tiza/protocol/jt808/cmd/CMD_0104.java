@@ -31,9 +31,6 @@ public class CMD_0104 extends Jt808DataProcess {
         this.cmdId = 0x0104;
     }
 
-    @Resource
-    private ICache waitRespCacheProvider;
-
     @Override
     public void parse(byte[] content, Header header) {
         Jt808Header jt808Header = (Jt808Header) header;
@@ -46,6 +43,10 @@ public class CMD_0104 extends Jt808DataProcess {
 
         // 仅有单个查询
         byte count = buf.readByte();
+        if (count < 1){
+            logger.warn("应答流水号[{}]，应答参数为0个", replySerial);
+            return;
+        }
 
         int paramId = buf.readInt();
         byte length = buf.readByte();
@@ -73,7 +74,7 @@ public class CMD_0104 extends Jt808DataProcess {
             value = buf.readByte();
         }
 
-        logger.info("查询结果:{}", value);
+        logger.info("应答流水号[{}]，查询结果:[{}]", replySerial, value);
 
         if (waitRespCacheProvider.containsKey(key)){
             SendMSG msg = (SendMSG) waitRespCacheProvider.get(key);

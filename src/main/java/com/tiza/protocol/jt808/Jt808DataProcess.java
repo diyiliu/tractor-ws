@@ -32,6 +32,9 @@ public class Jt808DataProcess implements IDataProcess {
     @Resource
     private ICache jt808CMDCacheProvider;
 
+    @Resource
+    protected ICache waitRespCacheProvider;
+
     protected int cmdId = 0xFFFF;
 
     @Value("${terminalType}")

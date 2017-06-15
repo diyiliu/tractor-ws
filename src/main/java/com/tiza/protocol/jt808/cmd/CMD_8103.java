@@ -53,10 +53,10 @@ public class CMD_8103 extends Jt808DataProcess {
 
                 len += 5;
                 buf.writeByte(4);
-                buf.writeInt((Integer) paramValue[i]);
+                buf.writeInt(Integer.parseInt(String.valueOf(paramValue[i])));
             } else if (Arrays.asList(group2).contains(paramId)) {
 
-                String value = (String) paramValue[i];
+                String value = String.valueOf(paramValue[i]);
                 byte[] bytes = value.getBytes(Charset.forName("GBK"));
 
                 len += (bytes.length + 1);
@@ -66,7 +66,7 @@ public class CMD_8103 extends Jt808DataProcess {
 
                 len += 2;
                 buf.writeByte(1);
-                buf.writeByte((Integer) paramValue[i]);
+                buf.writeByte(Integer.parseInt(String.valueOf(paramValue[i])));
             }
         }
         byte[] content = new byte[len];

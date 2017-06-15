@@ -55,59 +55,60 @@ public class WaitRespTask implements ITask {
         Date now = new Date();
 
         Set keys = waitRespCacheProvider.getKeys();
-        for (Iterator iterator = keys.iterator(); iterator.hasNext();){
-            // 指令ID
+        for (Iterator iterator = keys.iterator(); iterator.hasNext(); ) {
+            // 下发ID
             Integer key = (Integer) iterator.next();
 
             SendMSG sendMSG = (SendMSG) waitRespCacheProvider.get(key);
-            int count = sendMSG.getWaitCount();
-            if ((now.getTime() - sendMSG.getSendTime().getTime()) > waitTime * 1000){
+            int count = sendMSG.getWaitCount() + 1;
+
+            // 超时未响应
+            if (count > waitCount){
+                logger.warn("指令流水号[{}]，超时未响应！", sendMSG.getSerial());
+                waitRespCacheProvider.remove(key);
+
+                Map paramMap = new HashMap();
+                paramMap.put("RESULTSTATUS", 4);
+                Map conditionMap = new HashMap();
+                conditionMap.put("ID", sendMSG.getId());
+
+                // 持久化数据库
+                CommonUtil.dealToDb(Constant.DBInfo.DB_TRACTOR_USER, Constant.DBInfo.DB_TRACTOR_INSTRUCTION,
+                        paramMap, conditionMap, String.valueOf(sendMSG.getId()));
+            }
+
+            if ((now.getTime() - sendMSG.getSendTime().getTime()) > count * waitTime * 1000) {
                 ClientCmdSendResult sendResult = sendMSG.getSendResult();
+                sendMSG.setWaitCount(count);
 
                 try {
                     String checkId = sendResult.getCmdCheckId();
                     ClientCmdCheckResult checkResult = tStarClient.cmdCheck(checkId);
 
                     boolean respIsSuccess = checkResult.getIsSuccess();
-                    if (respIsSuccess){
+                    if (respIsSuccess) {
                         String replyBody = checkResult.getCmdReplyBody();
 
-                        // 返回内容为空
-                        if (CommonUtil.isEmpty(replyBody)){
+                        if (CommonUtil.isEmpty(replyBody)) {
+                            if (waitCount > count) {
 
-                            if (++count < waitCount){
-                                sendMSG.setWaitCount(count);
-                                logger.info("还剩下[{}]秒响应时间...", (waitCount - count)*waitTime);
-                            }else {
-                                logger.warn("超时未响应，指令响应内容为空！");
-
-                                Map paramMap = new HashMap();
-                                paramMap.put("RESULTSTATUS", 4);
-                                Map conditionMap = new HashMap();
-                                conditionMap.put("ID", sendMSG.getId());
-
-                                // 持久化数据库
-                                CommonUtil.dealToDb(Constant.DBInfo.DB_TRACTOR_USER, Constant.DBInfo.DB_TRACTOR_INSTRUCTION,
-                                        paramMap, conditionMap, String.valueOf(sendMSG.getId()));
-
-                                waitRespCacheProvider.remove(key);
+                                logger.info("指令流水号[{}]，还剩下[{}]秒响应时间...", sendMSG.getSerial(), (waitCount - count) * waitTime);
                             }
-                            continue;
-                        }
+                        } else {
+                            // 返回数据
+                            byte[] content = Base64.decodeBase64(replyBody);
 
-                        // 返回数据
-                        byte[] content = Base64.decodeBase64(replyBody);
+                            Jt808Header jt808Header = (Jt808Header) jt808DataProcess.dealHeader(content);
+                            jt808Header.setKey(sendMSG.getId());
+                            if (jt808Header != null) {
+                                // 重点监控
+                                //if (monitorCacheProvider.containsKey(terminalId)) {
+                                logger.info("接收消息，终端[{}], 命令[{}], 原始数据[{}]", jt808Header.getTerminalId(), CommonUtil.toHex(jt808Header.getCmd()), CommonUtil.bytesToString(content));
+                                //}
 
-                        Jt808Header jt808Header = (Jt808Header) jt808DataProcess.dealHeader(content);
-                        jt808Header.setKey(sendMSG.getId());
-                        if (jt808Header != null) {
-                            // 重点监控
-                            //if (monitorCacheProvider.containsKey(terminalId)) {
-                            logger.info("接收消息，终端[{}], 命令[{}], 原始数据[{}]", jt808Header.getTerminalId(), CommonUtil.toHex(jt808Header.getCmd()), CommonUtil.bytesToString(content));
-                            //}
-
-                            jt808DataProcess = (IDataProcess) jt808CMDCacheProvider.get(jt808Header.getCmd());
-                            jt808DataProcess.parse(jt808Header.getContent(), jt808Header);
+                                jt808DataProcess = (IDataProcess) jt808CMDCacheProvider.get(jt808Header.getCmd());
+                                jt808DataProcess.parse(jt808Header.getContent(), jt808Header);
+                            }
                         }
                     }
                 } catch (ServerException e) {
