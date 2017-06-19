@@ -92,6 +92,16 @@ jar {
         )
     }
 
+    //过滤动态配置文件
+    sourceSets {
+        main {
+            resources {
+                exclude '*'
+            }
+        }
+    }
+
+    //exclude ('com/tiza/ws/**')  过滤不打包路径
     /* '胖'打包（包含所有jar）
     from {
         configurations.compile.collect {
